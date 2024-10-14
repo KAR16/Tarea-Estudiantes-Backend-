@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiEstudiantesNet8.props" />
+</Project>
